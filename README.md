@@ -16,3 +16,6 @@ This is product list page in which all product list can be viewed and we can als
 
 This is Update Product page in which product can be updated
 ![update-product-page](https://user-images.githubusercontent.com/84554008/122898317-689b4d80-d368-11eb-8372-bc828bc12926.png)
+
+This is search product page in which product can be searched 
+![search-product](https://user-images.githubusercontent.com/84554008/122903097-b5812300-d36c-11eb-92cb-57de43056d30.png)
